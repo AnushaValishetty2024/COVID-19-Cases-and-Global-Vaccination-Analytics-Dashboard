@@ -31,3 +31,4 @@ Dashboard Interaction- <a href="https://github.com/AnushaValishetty2024/COVID-19
 # Dashboards
 - <a href="https://github.com/AnushaValishetty2024/COVID-19-Cases-and-Global-Vaccination-Analytics-Dashboard/blob/main/Screenshot%202026-06-18%20232000.png">Dashboard Image1</a>
 - <a href="https://github.com/AnushaValishetty2024/COVID-19-Cases-and-Global-Vaccination-Analytics-Dashboard/blob/main/Screenshot%202026-06-18%20232020.png">Dashboard Image2</a>
+- <a href="https://github.com/AnushaValishetty2024/COVID-19-Cases-and-Global-Vaccination-Analytics-Dashboard/blob/main/Screenshot%202026-06-18%20232039.png">Dashboard Image3</a>
