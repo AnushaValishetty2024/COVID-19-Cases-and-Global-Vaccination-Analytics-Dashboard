@@ -18,7 +18,7 @@ What percentage of the population is fully vaccinated?
 Which states/countries have the highest cases and vaccination rates?
 How have COVID-19 cases changed over time?
 
-Dashboard Interaction-
+Dashboard Interaction- <a href="https://github.com/AnushaValishetty2024/COVID-19-Cases-and-Global-Vaccination-Analytics-Dashboard/blob/main/dashboard-powerbi%202.pbix">View Dashboard</a>
 
 # Process
 - Imported COVID-19 time-series, Indian state-wise, and vaccination datasets into Power BI.
