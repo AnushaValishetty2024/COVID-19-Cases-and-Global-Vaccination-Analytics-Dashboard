@@ -27,3 +27,6 @@ Dashboard Interaction- <a href="https://github.com/AnushaValishetty2024/COVID-19
 - Developed DAX measures for KPIs and vaccination metrics.
 - Built interactive dashboards using cards, charts, treemaps, slicers, and trend analysis visuals.
 - Generated insights on COVID-19 spread and vaccination progress.
+
+# Dashboards
+-<a href="https://github.com/AnushaValishetty2024/COVID-19-Cases-and-Global-Vaccination-Analytics-Dashboard/blob/main/Screenshot%202026-06-18%20232000.png">Dashboard Image1</a>
