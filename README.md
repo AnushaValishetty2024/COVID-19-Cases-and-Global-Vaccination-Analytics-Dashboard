@@ -7,3 +7,23 @@ To analyze COVID-19 cases, recoveries, deaths, and vaccination progress using Po
 # Dataset Used
 - <a href="https://github.com/AnushaValishetty2024/COVID-19-Cases-and-Global-Vaccination-Analytics-Dashboard/blob/main/case_time_series%20-%20case_time_series.csv">Case Time Series Dataset</a>
 - <a href="https://github.com/AnushaValishetty2024/COVID-19-Cases-and-Global-Vaccination-Analytics-Dashboard/blob/main/raw_data_Indian_states.csv">Covid Dataset</a>
+- <a href="https://github.com/AnushaValishetty2024/COVID-19-Cases-and-Global-Vaccination-Analytics-Dashboard/blob/main/vaccination-data.csv">Vaccination Dataset</a>
+
+# Questions (KPIs)
+What is the total number of confirmed COVID-19 cases?
+What is the total number of recoveries?
+What is the total number of deaths?
+How many vaccine doses have been administered globally?
+What percentage of the population is fully vaccinated?
+Which states/countries have the highest cases and vaccination rates?
+How have COVID-19 cases changed over time?
+
+Dashboard Interaction-
+
+# Process
+- Imported COVID-19 time-series, Indian state-wise, and vaccination datasets into Power BI.
+- Cleaned and transformed data using Power Query.
+- Created a Date Table and established relationships between datasets.
+- Developed DAX measures for KPIs and vaccination metrics.
+- Built interactive dashboards using cards, charts, treemaps, slicers, and trend analysis visuals.
+- Generated insights on COVID-19 spread and vaccination progress.
