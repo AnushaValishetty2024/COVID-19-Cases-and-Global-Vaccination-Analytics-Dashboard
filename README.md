@@ -32,3 +32,13 @@ Dashboard Interaction- <a href="https://github.com/AnushaValishetty2024/COVID-19
 - <a href="https://github.com/AnushaValishetty2024/COVID-19-Cases-and-Global-Vaccination-Analytics-Dashboard/blob/main/Screenshot%202026-06-18%20232000.png">Dashboard Image1</a>
 - <a href="https://github.com/AnushaValishetty2024/COVID-19-Cases-and-Global-Vaccination-Analytics-Dashboard/blob/main/Screenshot%202026-06-18%20232020.png">Dashboard Image2</a>
 - <a href="https://github.com/AnushaValishetty2024/COVID-19-Cases-and-Global-Vaccination-Analytics-Dashboard/blob/main/Screenshot%202026-06-18%20232039.png">Dashboard Image3</a>
+- <a href="https://github.com/AnushaValishetty2024/COVID-19-Cases-and-Global-Vaccination-Analytics-Dashboard/blob/main/Screenshot%202026-06-18%20232100.png">Dashboard Image4</a>
+
+# Project Insight
+- Vaccination coverage varied significantly across countries and WHO regions.
+- States with high confirmed cases generally showed higher recovery counts.
+- COVID-19 trends revealed multiple waves of infections over time.
+- Countries that adopted vaccination earlier achieved higher vaccination coverage.
+  
+# Final Conclusion
+The dashboard provides a comprehensive view of COVID-19 cases and vaccination progress. It enables users to monitor pandemic trends, compare regional performance, and evaluate vaccination effectiveness through interactive and data-driven visualizations.
